@@ -13,7 +13,7 @@ import java.util.List;
 public interface GoodsEsService {
 
     /**
-     * 保存
+     * 保存1
      * @param goodsDto
      * @return
      */
